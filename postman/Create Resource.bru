@@ -1,0 +1,32 @@
+meta {
+  name: Create Resource
+  type: http
+  seq: 3
+}
+
+post {
+  url: {{baseUrl}}/resources
+  body: json
+  auth: none
+}
+
+headers {
+  Content-Type: application/json
+  Authorization: Bearer {{token}}
+}
+
+body:json {
+  {
+    "resource": "{{resource}}",
+    "quantity": {{quantity}},
+    "address": "{{address}}",
+    "location": { "latitude": {{lat}}, "longitude": {{lng}} },
+    "resourceType": "{{resourceType}}"
+  }
+}
+
+tests {
+  test("created", function () {
+    expect(res.getStatus()).to.equal(201);
+  });
+}

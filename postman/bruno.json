@@ -1,0 +1,6 @@
+{
+  "version": "1",
+  "name": "DHAP Bulk Insert",
+  "type": "collection",
+  "ignore": ["node_modules", ".git"]
+}

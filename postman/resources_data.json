@@ -1,0 +1,2402 @@
+[
+  {
+    "resource": "Mosquito nets #1",
+    "quantity": 135,
+    "address": "Relief Camp, Kolkata",
+    "lat": 22.612491,
+    "lng": 88.360425,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Blankets #2",
+    "quantity": 231,
+    "address": "Flood Zone B, Delhi",
+    "lat": 28.662665,
+    "lng": 77.188915,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Mosquito nets #3",
+    "quantity": 437,
+    "address": "Flood Zone A, Kolkata",
+    "lat": 22.542522,
+    "lng": 88.352369,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Tarpaulin sheets #4",
+    "quantity": 200,
+    "address": "Flood Zone B, Mumbai",
+    "lat": 19.083481,
+    "lng": 72.926969,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Children clothes #5",
+    "quantity": 145,
+    "address": "Relief Camp, Chennai",
+    "lat": 13.089293,
+    "lng": 80.28928,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Soap bars #6",
+    "quantity": 431,
+    "address": "Flood Zone A, Chennai",
+    "lat": 13.110274,
+    "lng": 80.243712,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "T-shirts #7",
+    "quantity": 322,
+    "address": "Flood Zone A, Bengaluru",
+    "lat": 12.989376,
+    "lng": 77.616693,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Torch lights #8",
+    "quantity": 467,
+    "address": "Relief Camp, Delhi",
+    "lat": 28.594793,
+    "lng": 77.203082,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Water purifier tablets #9",
+    "quantity": 72,
+    "address": "Distribution Hub, Hyderabad",
+    "lat": 17.425963,
+    "lng": 78.469372,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Tarpaulin sheets #10",
+    "quantity": 72,
+    "address": "Flood Zone B, Delhi",
+    "lat": 28.616985,
+    "lng": 77.250349,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "ORS packets #11",
+    "quantity": 500,
+    "address": "Flood Zone A, Kolkata",
+    "lat": 22.597256,
+    "lng": 88.347772,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Rice bags #12",
+    "quantity": 77,
+    "address": "Collection Center, Coimbatore",
+    "lat": 11.052814,
+    "lng": 76.978222,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Tents #13",
+    "quantity": 409,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.336392,
+    "lng": 78.490357,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Sleeping mats #14",
+    "quantity": 304,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.417242,
+    "lng": 78.530729,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Milk powder #15",
+    "quantity": 17,
+    "address": "Flood Zone B, Bengaluru",
+    "lat": 13.013126,
+    "lng": 77.566737,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Biscuit packets #16",
+    "quantity": 337,
+    "address": "Community Hall, Coimbatore",
+    "lat": 10.978468,
+    "lng": 76.910335,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Milk powder #17",
+    "quantity": 64,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.54608,
+    "lng": 88.367655,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Sleeping mats #18",
+    "quantity": 348,
+    "address": "Community Hall, Coimbatore",
+    "lat": 11.025534,
+    "lng": 76.97846,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Mosquito nets #19",
+    "quantity": 320,
+    "address": "Community Hall, Mumbai",
+    "lat": 19.119905,
+    "lng": 72.855674,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Power banks #20",
+    "quantity": 232,
+    "address": "Bus Stand, Hyderabad",
+    "lat": 17.430056,
+    "lng": 78.522245,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Biscuit packets #21",
+    "quantity": 36,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.362588,
+    "lng": 78.533521,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Tarpaulin sheets #22",
+    "quantity": 333,
+    "address": "Relief Camp, Mumbai",
+    "lat": 19.031058,
+    "lng": 72.861051,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "First-aid kits #23",
+    "quantity": 429,
+    "address": "Collection Center, Bengaluru",
+    "lat": 12.980238,
+    "lng": 77.625905,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Paracetamol strips #24",
+    "quantity": 408,
+    "address": "Relief Camp, Hyderabad",
+    "lat": 17.362727,
+    "lng": 78.535103,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Paracetamol strips #25",
+    "quantity": 61,
+    "address": "Relief Camp, Kolkata",
+    "lat": 22.53578,
+    "lng": 88.349724,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "First-aid kits #26",
+    "quantity": 94,
+    "address": "Flood Zone A, Hyderabad",
+    "lat": 17.34024,
+    "lng": 78.510872,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water purifier tablets #27",
+    "quantity": 37,
+    "address": "Bus Stand, Mumbai",
+    "lat": 19.070828,
+    "lng": 72.863904,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Water bottles (1L) #28",
+    "quantity": 262,
+    "address": "Collection Center, Mumbai",
+    "lat": 19.120542,
+    "lng": 72.832037,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Soap bars #29",
+    "quantity": 334,
+    "address": "Relief Camp, Kolkata",
+    "lat": 22.528683,
+    "lng": 88.361798,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Tents #30",
+    "quantity": 256,
+    "address": "Bus Stand, Pune",
+    "lat": 18.477749,
+    "lng": 73.814779,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water cans (20L) #31",
+    "quantity": 69,
+    "address": "Flood Zone A, Delhi",
+    "lat": 28.626332,
+    "lng": 77.217536,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Soap bars #32",
+    "quantity": 310,
+    "address": "Flood Zone A, Hyderabad",
+    "lat": 17.380372,
+    "lng": 78.497243,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Cooked meals #33",
+    "quantity": 225,
+    "address": "Bus Stand, Mumbai",
+    "lat": 19.114809,
+    "lng": 72.869081,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Mosquito nets #34",
+    "quantity": 378,
+    "address": "Distribution Hub, Pune",
+    "lat": 18.501655,
+    "lng": 73.837952,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "T-shirts #35",
+    "quantity": 356,
+    "address": "Bus Stand, Hyderabad",
+    "lat": 17.341713,
+    "lng": 78.519877,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Rice bags #36",
+    "quantity": 386,
+    "address": "Flood Zone B, Pune",
+    "lat": 18.551577,
+    "lng": 73.862337,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water purifier tablets #37",
+    "quantity": 67,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.37036,
+    "lng": 78.503234,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sleeping mats #38",
+    "quantity": 312,
+    "address": "Flood Zone A, Chennai",
+    "lat": 13.067865,
+    "lng": 80.278492,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "ORS packets #39",
+    "quantity": 119,
+    "address": "Distribution Hub, Delhi",
+    "lat": 28.598911,
+    "lng": 77.214627,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Cooked meals #40",
+    "quantity": 418,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.607116,
+    "lng": 88.411355,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water purifier tablets #41",
+    "quantity": 480,
+    "address": "Flood Zone A, Chennai",
+    "lat": 13.035595,
+    "lng": 80.248027,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sarees #42",
+    "quantity": 8,
+    "address": "Shelter Point, Hyderabad",
+    "lat": 17.421986,
+    "lng": 78.493332,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Tarpaulin sheets #43",
+    "quantity": 384,
+    "address": "Relief Camp, Mumbai",
+    "lat": 19.035176,
+    "lng": 72.880748,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Mosquito nets #44",
+    "quantity": 179,
+    "address": "Shelter Point, Pune",
+    "lat": 18.507405,
+    "lng": 73.87886,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water cans (20L) #45",
+    "quantity": 84,
+    "address": "Shelter Point, Mumbai",
+    "lat": 19.101444,
+    "lng": 72.832676,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Milk powder #46",
+    "quantity": 343,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.571166,
+    "lng": 88.358104,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Blankets #47",
+    "quantity": 181,
+    "address": "Community Hall, Bengaluru",
+    "lat": 12.932689,
+    "lng": 77.612422,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water purifier tablets #48",
+    "quantity": 346,
+    "address": "Flood Zone A, Coimbatore",
+    "lat": 10.971342,
+    "lng": 76.945326,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Water cans (20L) #49",
+    "quantity": 109,
+    "address": "Flood Zone A, Chennai",
+    "lat": 13.127232,
+    "lng": 80.297435,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sarees #50",
+    "quantity": 66,
+    "address": "Relief Camp, Kolkata",
+    "lat": 22.572339,
+    "lng": 88.356966,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Paracetamol strips #51",
+    "quantity": 261,
+    "address": "Flood Zone B, Pune",
+    "lat": 18.477608,
+    "lng": 73.892876,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Rice bags #52",
+    "quantity": 240,
+    "address": "Distribution Hub, Pune",
+    "lat": 18.556611,
+    "lng": 73.864276,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water purifier tablets #53",
+    "quantity": 332,
+    "address": "Community Hall, Pune",
+    "lat": 18.499352,
+    "lng": 73.847203,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Children clothes #54",
+    "quantity": 430,
+    "address": "Flood Zone B, Delhi",
+    "lat": 28.572713,
+    "lng": 77.243448,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "ORS packets #55",
+    "quantity": 273,
+    "address": "Distribution Hub, Pune",
+    "lat": 18.509977,
+    "lng": 73.837727,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Sarees #56",
+    "quantity": 403,
+    "address": "Shelter Point, Bengaluru",
+    "lat": 12.929238,
+    "lng": 77.607922,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water bottles (1L) #57",
+    "quantity": 184,
+    "address": "Shelter Point, Bengaluru",
+    "lat": 12.945227,
+    "lng": 77.559244,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Paracetamol strips #58",
+    "quantity": 394,
+    "address": "Distribution Hub, Delhi",
+    "lat": 28.581615,
+    "lng": 77.236285,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Mosquito nets #59",
+    "quantity": 353,
+    "address": "Flood Zone B, Coimbatore",
+    "lat": 11.053225,
+    "lng": 76.968522,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "First-aid kits #60",
+    "quantity": 245,
+    "address": "Bus Stand, Coimbatore",
+    "lat": 11.029939,
+    "lng": 76.985433,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water bottles (1L) #61",
+    "quantity": 264,
+    "address": "Distribution Hub, Chennai",
+    "lat": 13.063741,
+    "lng": 80.265891,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Biscuit packets #62",
+    "quantity": 44,
+    "address": "Distribution Hub, Hyderabad",
+    "lat": 17.396501,
+    "lng": 78.487407,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Mosquito nets #63",
+    "quantity": 470,
+    "address": "Collection Center, Chennai",
+    "lat": 13.064853,
+    "lng": 80.268263,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "ORS packets #64",
+    "quantity": 57,
+    "address": "Flood Zone B, Chennai",
+    "lat": 13.130939,
+    "lng": 80.229133,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Torch lights #65",
+    "quantity": 131,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.662999,
+    "lng": 77.211407,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Water bottles (1L) #66",
+    "quantity": 195,
+    "address": "Flood Zone A, Delhi",
+    "lat": 28.602642,
+    "lng": 77.236446,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sanitary kits #67",
+    "quantity": 38,
+    "address": "Flood Zone B, Chennai",
+    "lat": 13.042151,
+    "lng": 80.288538,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "T-shirts #68",
+    "quantity": 175,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.580874,
+    "lng": 88.328043,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Children clothes #69",
+    "quantity": 71,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.553558,
+    "lng": 88.351568,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Blankets #70",
+    "quantity": 335,
+    "address": "Community Hall, Delhi",
+    "lat": 28.614749,
+    "lng": 77.160823,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "T-shirts #71",
+    "quantity": 179,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.583101,
+    "lng": 77.258998,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Bandages #72",
+    "quantity": 437,
+    "address": "Distribution Hub, Mumbai",
+    "lat": 19.076769,
+    "lng": 72.881677,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Sanitary kits #73",
+    "quantity": 453,
+    "address": "Shelter Point, Chennai",
+    "lat": 13.092425,
+    "lng": 80.236125,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "ORS packets #74",
+    "quantity": 27,
+    "address": "Community Hall, Delhi",
+    "lat": 28.60033,
+    "lng": 77.230959,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Mosquito nets #75",
+    "quantity": 124,
+    "address": "Collection Center, Kolkata",
+    "lat": 22.553547,
+    "lng": 88.394762,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Sleeping mats #76",
+    "quantity": 352,
+    "address": "Bus Stand, Bengaluru",
+    "lat": 12.967768,
+    "lng": 77.572777,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Tarpaulin sheets #77",
+    "quantity": 423,
+    "address": "Collection Center, Pune",
+    "lat": 18.550526,
+    "lng": 73.82054,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Children clothes #78",
+    "quantity": 452,
+    "address": "Flood Zone B, Chennai",
+    "lat": 13.088154,
+    "lng": 80.230959,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water bottles (1L) #79",
+    "quantity": 47,
+    "address": "Shelter Point, Mumbai",
+    "lat": 19.053279,
+    "lng": 72.918231,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "First-aid kits #80",
+    "quantity": 489,
+    "address": "Collection Center, Pune",
+    "lat": 18.55207,
+    "lng": 73.895163,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Rice bags #81",
+    "quantity": 207,
+    "address": "Flood Zone B, Pune",
+    "lat": 18.493978,
+    "lng": 73.906153,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Blankets #82",
+    "quantity": 168,
+    "address": "Distribution Hub, Bengaluru",
+    "lat": 13.005518,
+    "lng": 77.609596,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "First-aid kits #83",
+    "quantity": 151,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.633507,
+    "lng": 77.172879,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Soap bars #84",
+    "quantity": 320,
+    "address": "Relief Camp, Coimbatore",
+    "lat": 11.057386,
+    "lng": 76.9077,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "ORS packets #85",
+    "quantity": 61,
+    "address": "Flood Zone A, Delhi",
+    "lat": 28.587664,
+    "lng": 77.171185,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "ORS packets #86",
+    "quantity": 37,
+    "address": "Distribution Hub, Pune",
+    "lat": 18.554069,
+    "lng": 73.856683,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water purifier tablets #87",
+    "quantity": 268,
+    "address": "Collection Center, Chennai",
+    "lat": 13.104554,
+    "lng": 80.249827,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Cooked meals #88",
+    "quantity": 297,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.353731,
+    "lng": 78.503521,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water cans (20L) #89",
+    "quantity": 493,
+    "address": "Relief Camp, Hyderabad",
+    "lat": 17.374045,
+    "lng": 78.483714,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sanitary kits #90",
+    "quantity": 134,
+    "address": "Relief Camp, Pune",
+    "lat": 18.506109,
+    "lng": 73.813456,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Bandages #91",
+    "quantity": 73,
+    "address": "Relief Camp, Mumbai",
+    "lat": 19.06123,
+    "lng": 72.861555,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Soap bars #92",
+    "quantity": 361,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.627074,
+    "lng": 77.24015,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Rice bags #93",
+    "quantity": 155,
+    "address": "Collection Center, Coimbatore",
+    "lat": 10.971181,
+    "lng": 76.925747,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Biscuit packets #94",
+    "quantity": 268,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.433912,
+    "lng": 78.491003,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "T-shirts #95",
+    "quantity": 151,
+    "address": "Flood Zone B, Chennai",
+    "lat": 13.118914,
+    "lng": 80.22548,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sanitary kits #96",
+    "quantity": 68,
+    "address": "Flood Zone B, Hyderabad",
+    "lat": 17.378695,
+    "lng": 78.476702,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sleeping mats #97",
+    "quantity": 100,
+    "address": "Bus Stand, Pune",
+    "lat": 18.539607,
+    "lng": 73.843435,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water cans (20L) #98",
+    "quantity": 377,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.530493,
+    "lng": 88.374145,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Bandages #99",
+    "quantity": 57,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.555392,
+    "lng": 88.343464,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Tarpaulin sheets #100",
+    "quantity": 358,
+    "address": "Bus Stand, Pune",
+    "lat": 18.505555,
+    "lng": 73.810936,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Sarees #101",
+    "quantity": 332,
+    "address": "Relief Camp, Pune",
+    "lat": 18.477904,
+    "lng": 73.870451,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Blankets #102",
+    "quantity": 78,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.56738,
+    "lng": 77.165723,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sanitary kits #103",
+    "quantity": 201,
+    "address": "Relief Camp, Hyderabad",
+    "lat": 17.395509,
+    "lng": 78.504606,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Children clothes #104",
+    "quantity": 395,
+    "address": "Distribution Hub, Hyderabad",
+    "lat": 17.392392,
+    "lng": 78.489646,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sleeping mats #105",
+    "quantity": 132,
+    "address": "Distribution Hub, Hyderabad",
+    "lat": 17.337591,
+    "lng": 78.455305,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water purifier tablets #106",
+    "quantity": 65,
+    "address": "Flood Zone A, Pune",
+    "lat": 18.547896,
+    "lng": 73.877104,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "ORS packets #107",
+    "quantity": 107,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.536173,
+    "lng": 88.321305,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "First-aid kits #108",
+    "quantity": 419,
+    "address": "Flood Zone B, Coimbatore",
+    "lat": 11.033584,
+    "lng": 76.976754,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water bottles (1L) #109",
+    "quantity": 440,
+    "address": "Shelter Point, Kolkata",
+    "lat": 22.593781,
+    "lng": 88.406632,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sanitary kits #110",
+    "quantity": 265,
+    "address": "Collection Center, Delhi",
+    "lat": 28.576036,
+    "lng": 77.179098,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "ORS packets #111",
+    "quantity": 18,
+    "address": "Flood Zone B, Bengaluru",
+    "lat": 12.977002,
+    "lng": 77.581491,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water purifier tablets #112",
+    "quantity": 457,
+    "address": "Distribution Hub, Delhi",
+    "lat": 28.570475,
+    "lng": 77.198816,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Soap bars #113",
+    "quantity": 398,
+    "address": "Community Hall, Coimbatore",
+    "lat": 11.049134,
+    "lng": 76.913175,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Children clothes #114",
+    "quantity": 243,
+    "address": "Flood Zone B, Mumbai",
+    "lat": 19.038833,
+    "lng": 72.910605,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water cans (20L) #115",
+    "quantity": 226,
+    "address": "Relief Camp, Delhi",
+    "lat": 28.647039,
+    "lng": 77.21081,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "T-shirts #116",
+    "quantity": 170,
+    "address": "Collection Center, Delhi",
+    "lat": 28.598502,
+    "lng": 77.25309,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sarees #117",
+    "quantity": 105,
+    "address": "Flood Zone A, Mumbai",
+    "lat": 19.038517,
+    "lng": 72.857982,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water purifier tablets #118",
+    "quantity": 333,
+    "address": "Shelter Point, Mumbai",
+    "lat": 19.085181,
+    "lng": 72.885765,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "First-aid kits #119",
+    "quantity": 427,
+    "address": "Relief Camp, Hyderabad",
+    "lat": 17.343122,
+    "lng": 78.531555,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water purifier tablets #120",
+    "quantity": 112,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.584411,
+    "lng": 88.316929,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sanitary kits #121",
+    "quantity": 252,
+    "address": "Collection Center, Kolkata",
+    "lat": 22.603069,
+    "lng": 88.382399,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Blankets #122",
+    "quantity": 357,
+    "address": "Relief Camp, Coimbatore",
+    "lat": 10.982608,
+    "lng": 76.947362,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sleeping mats #123",
+    "quantity": 315,
+    "address": "Shelter Point, Bengaluru",
+    "lat": 12.952858,
+    "lng": 77.616436,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Soap bars #124",
+    "quantity": 71,
+    "address": "Flood Zone B, Hyderabad",
+    "lat": 17.386498,
+    "lng": 78.447318,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "First-aid kits #125",
+    "quantity": 141,
+    "address": "Bus Stand, Coimbatore",
+    "lat": 10.991592,
+    "lng": 76.915481,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Children clothes #126",
+    "quantity": 132,
+    "address": "Shelter Point, Pune",
+    "lat": 18.551748,
+    "lng": 73.900075,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Power banks #127",
+    "quantity": 395,
+    "address": "Shelter Point, Hyderabad",
+    "lat": 17.384827,
+    "lng": 78.488172,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Mosquito nets #128",
+    "quantity": 16,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.617123,
+    "lng": 88.364444,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Bandages #129",
+    "quantity": 29,
+    "address": "Relief Camp, Bengaluru",
+    "lat": 12.949736,
+    "lng": 77.604352,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Sanitary kits #130",
+    "quantity": 279,
+    "address": "Relief Camp, Coimbatore",
+    "lat": 11.051517,
+    "lng": 76.948893,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Children clothes #131",
+    "quantity": 192,
+    "address": "Relief Camp, Hyderabad",
+    "lat": 17.375058,
+    "lng": 78.493728,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Bandages #132",
+    "quantity": 42,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.385426,
+    "lng": 78.51314,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "T-shirts #133",
+    "quantity": 54,
+    "address": "Community Hall, Mumbai",
+    "lat": 19.06332,
+    "lng": 72.926379,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water cans (20L) #134",
+    "quantity": 106,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.385008,
+    "lng": 78.44123,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "ORS packets #135",
+    "quantity": 270,
+    "address": "Bus Stand, Hyderabad",
+    "lat": 17.349894,
+    "lng": 78.526013,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Bandages #136",
+    "quantity": 88,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.434062,
+    "lng": 78.510632,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Children clothes #137",
+    "quantity": 367,
+    "address": "Flood Zone A, Hyderabad",
+    "lat": 17.382489,
+    "lng": 78.438364,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Children clothes #138",
+    "quantity": 303,
+    "address": "Flood Zone A, Mumbai",
+    "lat": 19.105675,
+    "lng": 72.900232,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Soap bars #139",
+    "quantity": 140,
+    "address": "Collection Center, Chennai",
+    "lat": 13.10484,
+    "lng": 80.279052,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Paracetamol strips #140",
+    "quantity": 425,
+    "address": "Collection Center, Pune",
+    "lat": 18.473557,
+    "lng": 73.901521,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Rice bags #141",
+    "quantity": 230,
+    "address": "Flood Zone B, Bengaluru",
+    "lat": 12.963478,
+    "lng": 77.585896,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "ORS packets #142",
+    "quantity": 451,
+    "address": "Relief Camp, Pune",
+    "lat": 18.540978,
+    "lng": 73.858568,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water purifier tablets #143",
+    "quantity": 249,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.366375,
+    "lng": 78.454018,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Water purifier tablets #144",
+    "quantity": 186,
+    "address": "Flood Zone A, Hyderabad",
+    "lat": 17.396008,
+    "lng": 78.455926,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Bandages #145",
+    "quantity": 120,
+    "address": "Flood Zone A, Kolkata",
+    "lat": 22.599717,
+    "lng": 88.38439,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Sanitary kits #146",
+    "quantity": 250,
+    "address": "Flood Zone B, Coimbatore",
+    "lat": 11.022849,
+    "lng": 76.999249,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sanitary kits #147",
+    "quantity": 67,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.612176,
+    "lng": 88.353353,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sarees #148",
+    "quantity": 26,
+    "address": "Flood Zone A, Delhi",
+    "lat": 28.659431,
+    "lng": 77.166903,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Mosquito nets #149",
+    "quantity": 114,
+    "address": "Collection Center, Kolkata",
+    "lat": 22.605395,
+    "lng": 88.341013,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water cans (20L) #150",
+    "quantity": 60,
+    "address": "Collection Center, Kolkata",
+    "lat": 22.546846,
+    "lng": 88.380883,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Water purifier tablets #151",
+    "quantity": 124,
+    "address": "Relief Camp, Bengaluru",
+    "lat": 12.93162,
+    "lng": 77.577629,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Tarpaulin sheets #152",
+    "quantity": 7,
+    "address": "Shelter Point, Mumbai",
+    "lat": 19.066691,
+    "lng": 72.921203,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Tarpaulin sheets #153",
+    "quantity": 392,
+    "address": "Flood Zone A, Coimbatore",
+    "lat": 10.998917,
+    "lng": 76.97039,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Rice bags #154",
+    "quantity": 472,
+    "address": "Shelter Point, Bengaluru",
+    "lat": 12.963388,
+    "lng": 77.62836,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Milk powder #155",
+    "quantity": 100,
+    "address": "Flood Zone A, Pune",
+    "lat": 18.558074,
+    "lng": 73.807627,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water bottles (1L) #156",
+    "quantity": 150,
+    "address": "Bus Stand, Mumbai",
+    "lat": 19.12491,
+    "lng": 72.88203,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Mosquito nets #157",
+    "quantity": 144,
+    "address": "Collection Center, Delhi",
+    "lat": 28.644781,
+    "lng": 77.192068,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Sanitary kits #158",
+    "quantity": 372,
+    "address": "Shelter Point, Coimbatore",
+    "lat": 10.968208,
+    "lng": 76.939511,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "T-shirts #159",
+    "quantity": 317,
+    "address": "Community Hall, Bengaluru",
+    "lat": 13.004299,
+    "lng": 77.596128,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Rice bags #160",
+    "quantity": 99,
+    "address": "Shelter Point, Pune",
+    "lat": 18.518145,
+    "lng": 73.900283,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Milk powder #161",
+    "quantity": 125,
+    "address": "Bus Stand, Kolkata",
+    "lat": 22.597976,
+    "lng": 88.409303,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Sarees #162",
+    "quantity": 339,
+    "address": "Flood Zone B, Chennai",
+    "lat": 13.101977,
+    "lng": 80.226912,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Biscuit packets #163",
+    "quantity": 86,
+    "address": "Community Hall, Coimbatore",
+    "lat": 11.035407,
+    "lng": 76.998111,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Torch lights #164",
+    "quantity": 332,
+    "address": "Flood Zone A, Kolkata",
+    "lat": 22.559354,
+    "lng": 88.335985,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Paracetamol strips #165",
+    "quantity": 237,
+    "address": "Flood Zone B, Coimbatore",
+    "lat": 11.008385,
+    "lng": 76.960723,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Tarpaulin sheets #166",
+    "quantity": 353,
+    "address": "Distribution Hub, Bengaluru",
+    "lat": 12.974151,
+    "lng": 77.597417,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Blankets #167",
+    "quantity": 36,
+    "address": "Collection Center, Mumbai",
+    "lat": 19.08327,
+    "lng": 72.842685,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Blankets #168",
+    "quantity": 353,
+    "address": "Collection Center, Coimbatore",
+    "lat": 11.038492,
+    "lng": 76.954683,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water cans (20L) #169",
+    "quantity": 237,
+    "address": "Shelter Point, Coimbatore",
+    "lat": 11.018125,
+    "lng": 76.95148,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Biscuit packets #170",
+    "quantity": 375,
+    "address": "Relief Camp, Coimbatore",
+    "lat": 11.006395,
+    "lng": 76.987445,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Torch lights #171",
+    "quantity": 28,
+    "address": "Community Hall, Bengaluru",
+    "lat": 12.956053,
+    "lng": 77.550976,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Milk powder #172",
+    "quantity": 21,
+    "address": "Flood Zone A, Mumbai",
+    "lat": 19.066887,
+    "lng": 72.904597,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Sanitary kits #173",
+    "quantity": 461,
+    "address": "Community Hall, Pune",
+    "lat": 18.515254,
+    "lng": 73.898412,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Tents #174",
+    "quantity": 354,
+    "address": "Shelter Point, Pune",
+    "lat": 18.535753,
+    "lng": 73.841477,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Paracetamol strips #175",
+    "quantity": 377,
+    "address": "Collection Center, Pune",
+    "lat": 18.553882,
+    "lng": 73.882318,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Children clothes #176",
+    "quantity": 277,
+    "address": "Community Hall, Coimbatore",
+    "lat": 11.049136,
+    "lng": 76.930551,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sarees #177",
+    "quantity": 101,
+    "address": "Distribution Hub, Delhi",
+    "lat": 28.567122,
+    "lng": 77.22502,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water cans (20L) #178",
+    "quantity": 110,
+    "address": "Distribution Hub, Chennai",
+    "lat": 13.04279,
+    "lng": 80.224058,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Water cans (20L) #179",
+    "quantity": 384,
+    "address": "Relief Camp, Chennai",
+    "lat": 13.072927,
+    "lng": 80.244134,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Paracetamol strips #180",
+    "quantity": 262,
+    "address": "Flood Zone A, Chennai",
+    "lat": 13.056116,
+    "lng": 80.31234,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water purifier tablets #181",
+    "quantity": 311,
+    "address": "Flood Zone B, Hyderabad",
+    "lat": 17.35869,
+    "lng": 78.524326,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Soap bars #182",
+    "quantity": 158,
+    "address": "Flood Zone A, Bengaluru",
+    "lat": 12.927696,
+    "lng": 77.639452,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Soap bars #183",
+    "quantity": 289,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.568588,
+    "lng": 77.193441,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sanitary kits #184",
+    "quantity": 361,
+    "address": "Community Hall, Pune",
+    "lat": 18.511226,
+    "lng": 73.836689,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Paracetamol strips #185",
+    "quantity": 439,
+    "address": "Collection Center, Coimbatore",
+    "lat": 10.996874,
+    "lng": 76.976558,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Mosquito nets #186",
+    "quantity": 500,
+    "address": "Community Hall, Chennai",
+    "lat": 13.088429,
+    "lng": 80.234109,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Paracetamol strips #187",
+    "quantity": 174,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.614823,
+    "lng": 88.398613,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Rice bags #188",
+    "quantity": 142,
+    "address": "Community Hall, Bengaluru",
+    "lat": 12.988967,
+    "lng": 77.604892,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Cooked meals #189",
+    "quantity": 250,
+    "address": "Collection Center, Bengaluru",
+    "lat": 13.008547,
+    "lng": 77.577896,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Cooked meals #190",
+    "quantity": 497,
+    "address": "Distribution Hub, Bengaluru",
+    "lat": 12.996288,
+    "lng": 77.620033,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "ORS packets #191",
+    "quantity": 473,
+    "address": "Collection Center, Bengaluru",
+    "lat": 12.976808,
+    "lng": 77.622151,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Sleeping mats #192",
+    "quantity": 162,
+    "address": "Flood Zone A, Coimbatore",
+    "lat": 11.002764,
+    "lng": 76.994081,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Mosquito nets #193",
+    "quantity": 394,
+    "address": "Flood Zone B, Mumbai",
+    "lat": 19.117433,
+    "lng": 72.86477,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Tarpaulin sheets #194",
+    "quantity": 384,
+    "address": "Shelter Point, Chennai",
+    "lat": 13.034322,
+    "lng": 80.276031,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water bottles (1L) #195",
+    "quantity": 83,
+    "address": "Collection Center, Pune",
+    "lat": 18.503387,
+    "lng": 73.844684,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Bandages #196",
+    "quantity": 136,
+    "address": "Bus Stand, Coimbatore",
+    "lat": 11.063451,
+    "lng": 76.969969,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Tarpaulin sheets #197",
+    "quantity": 380,
+    "address": "Flood Zone B, Coimbatore",
+    "lat": 10.983727,
+    "lng": 76.977831,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Tents #198",
+    "quantity": 273,
+    "address": "Relief Camp, Delhi",
+    "lat": 28.647807,
+    "lng": 77.166433,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Torch lights #199",
+    "quantity": 216,
+    "address": "Shelter Point, Chennai",
+    "lat": 13.116954,
+    "lng": 80.243843,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Torch lights #200",
+    "quantity": 116,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.60122,
+    "lng": 77.220784,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Soap bars #201",
+    "quantity": 13,
+    "address": "Relief Camp, Coimbatore",
+    "lat": 11.020021,
+    "lng": 76.946934,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Biscuit packets #202",
+    "quantity": 13,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.603217,
+    "lng": 88.404877,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Cooked meals #203",
+    "quantity": 128,
+    "address": "Collection Center, Mumbai",
+    "lat": 19.087978,
+    "lng": 72.852942,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Children clothes #204",
+    "quantity": 45,
+    "address": "Flood Zone B, Kolkata",
+    "lat": 22.61853,
+    "lng": 88.3598,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Bandages #205",
+    "quantity": 355,
+    "address": "Distribution Hub, Bengaluru",
+    "lat": 12.986974,
+    "lng": 77.630422,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Milk powder #206",
+    "quantity": 199,
+    "address": "Community Hall, Mumbai",
+    "lat": 19.08127,
+    "lng": 72.833311,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Rice bags #207",
+    "quantity": 260,
+    "address": "Community Hall, Delhi",
+    "lat": 28.628391,
+    "lng": 77.192127,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Cooked meals #208",
+    "quantity": 113,
+    "address": "Bus Stand, Chennai",
+    "lat": 13.05981,
+    "lng": 80.313116,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Torch lights #209",
+    "quantity": 96,
+    "address": "Flood Zone B, Kolkata",
+    "lat": 22.524166,
+    "lng": 88.334616,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "First-aid kits #210",
+    "quantity": 158,
+    "address": "Shelter Point, Pune",
+    "lat": 18.526796,
+    "lng": 73.86337,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Mosquito nets #211",
+    "quantity": 391,
+    "address": "Shelter Point, Hyderabad",
+    "lat": 17.41405,
+    "lng": 78.505631,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Rice bags #212",
+    "quantity": 55,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.358214,
+    "lng": 78.444302,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water bottles (1L) #213",
+    "quantity": 20,
+    "address": "Flood Zone A, Pune",
+    "lat": 18.548755,
+    "lng": 73.851755,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "ORS packets #214",
+    "quantity": 226,
+    "address": "Shelter Point, Hyderabad",
+    "lat": 17.402969,
+    "lng": 78.502767,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Cooked meals #215",
+    "quantity": 370,
+    "address": "Distribution Hub, Kolkata",
+    "lat": 22.530804,
+    "lng": 88.329322,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Soap bars #216",
+    "quantity": 167,
+    "address": "Flood Zone B, Delhi",
+    "lat": 28.574555,
+    "lng": 77.15952,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sarees #217",
+    "quantity": 394,
+    "address": "Flood Zone A, Coimbatore",
+    "lat": 10.977023,
+    "lng": 76.91453,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Mosquito nets #218",
+    "quantity": 57,
+    "address": "Relief Camp, Coimbatore",
+    "lat": 10.975762,
+    "lng": 76.961222,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water bottles (1L) #219",
+    "quantity": 11,
+    "address": "Flood Zone A, Hyderabad",
+    "lat": 17.376381,
+    "lng": 78.514617,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Power banks #220",
+    "quantity": 355,
+    "address": "Community Hall, Bengaluru",
+    "lat": 12.93855,
+    "lng": 77.571492,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "T-shirts #221",
+    "quantity": 37,
+    "address": "Shelter Point, Coimbatore",
+    "lat": 11.010268,
+    "lng": 76.94791,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sleeping mats #222",
+    "quantity": 133,
+    "address": "Collection Center, Mumbai",
+    "lat": 19.09809,
+    "lng": 72.87728,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water bottles (1L) #223",
+    "quantity": 59,
+    "address": "Shelter Point, Bengaluru",
+    "lat": 12.952066,
+    "lng": 77.639482,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sarees #224",
+    "quantity": 230,
+    "address": "Flood Zone B, Pune",
+    "lat": 18.513462,
+    "lng": 73.889054,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sanitary kits #225",
+    "quantity": 169,
+    "address": "Collection Center, Delhi",
+    "lat": 28.611801,
+    "lng": 77.176764,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sleeping mats #226",
+    "quantity": 381,
+    "address": "Bus Stand, Hyderabad",
+    "lat": 17.431776,
+    "lng": 78.514897,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Sarees #227",
+    "quantity": 423,
+    "address": "Community Hall, Pune",
+    "lat": 18.506902,
+    "lng": 73.899907,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "First-aid kits #228",
+    "quantity": 492,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.658197,
+    "lng": 77.179965,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Children clothes #229",
+    "quantity": 349,
+    "address": "Bus Stand, Mumbai",
+    "lat": 19.039918,
+    "lng": 72.857983,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Children clothes #230",
+    "quantity": 409,
+    "address": "Community Hall, Delhi",
+    "lat": 28.571297,
+    "lng": 77.25807,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Mosquito nets #231",
+    "quantity": 283,
+    "address": "Relief Camp, Pune",
+    "lat": 18.549472,
+    "lng": 73.842653,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water cans (20L) #232",
+    "quantity": 398,
+    "address": "Collection Center, Mumbai",
+    "lat": 19.09176,
+    "lng": 72.863201,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Soap bars #233",
+    "quantity": 500,
+    "address": "Flood Zone B, Chennai",
+    "lat": 13.129272,
+    "lng": 80.263746,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Biscuit packets #234",
+    "quantity": 118,
+    "address": "Collection Center, Mumbai",
+    "lat": 19.070578,
+    "lng": 72.866813,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Sanitary kits #235",
+    "quantity": 17,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.574355,
+    "lng": 77.200598,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Cooked meals #236",
+    "quantity": 183,
+    "address": "Flood Zone A, Mumbai",
+    "lat": 19.060307,
+    "lng": 72.906127,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water bottles (1L) #237",
+    "quantity": 248,
+    "address": "Distribution Hub, Coimbatore",
+    "lat": 11.010617,
+    "lng": 76.975476,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Sarees #238",
+    "quantity": 27,
+    "address": "Distribution Hub, Mumbai",
+    "lat": 19.028259,
+    "lng": 72.862008,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Cooked meals #239",
+    "quantity": 269,
+    "address": "Shelter Point, Delhi",
+    "lat": 28.619091,
+    "lng": 77.192099,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Tarpaulin sheets #240",
+    "quantity": 413,
+    "address": "Community Hall, Coimbatore",
+    "lat": 11.029776,
+    "lng": 76.924439,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Soap bars #241",
+    "quantity": 19,
+    "address": "Collection Center, Pune",
+    "lat": 18.515358,
+    "lng": 73.849655,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Cooked meals #242",
+    "quantity": 147,
+    "address": "Distribution Hub, Bengaluru",
+    "lat": 12.979335,
+    "lng": 77.62455,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Water bottles (1L) #243",
+    "quantity": 171,
+    "address": "Collection Center, Delhi",
+    "lat": 28.609655,
+    "lng": 77.185235,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Mosquito nets #244",
+    "quantity": 317,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.3937,
+    "lng": 78.471492,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Sleeping mats #245",
+    "quantity": 475,
+    "address": "Distribution Hub, Delhi",
+    "lat": 28.631111,
+    "lng": 77.190319,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "First-aid kits #246",
+    "quantity": 98,
+    "address": "Flood Zone B, Kolkata",
+    "lat": 22.591944,
+    "lng": 88.364982,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Mosquito nets #247",
+    "quantity": 221,
+    "address": "Shelter Point, Delhi",
+    "lat": 28.612567,
+    "lng": 77.212738,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Power banks #248",
+    "quantity": 255,
+    "address": "Flood Zone A, Delhi",
+    "lat": 28.57793,
+    "lng": 77.190458,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sleeping mats #249",
+    "quantity": 492,
+    "address": "Relief Camp, Chennai",
+    "lat": 13.081161,
+    "lng": 80.240213,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Mosquito nets #250",
+    "quantity": 355,
+    "address": "Bus Stand, Coimbatore",
+    "lat": 11.008363,
+    "lng": 76.989789,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Tents #251",
+    "quantity": 294,
+    "address": "Relief Camp, Delhi",
+    "lat": 28.643488,
+    "lng": 77.181053,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Cooked meals #252",
+    "quantity": 280,
+    "address": "Flood Zone A, Kolkata",
+    "lat": 22.539421,
+    "lng": 88.359632,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Torch lights #253",
+    "quantity": 298,
+    "address": "Distribution Hub, Coimbatore",
+    "lat": 10.993589,
+    "lng": 76.960111,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Children clothes #254",
+    "quantity": 284,
+    "address": "Collection Center, Chennai",
+    "lat": 13.131678,
+    "lng": 80.230942,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Sanitary kits #255",
+    "quantity": 452,
+    "address": "Relief Camp, Bengaluru",
+    "lat": 12.966573,
+    "lng": 77.579458,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Rice bags #256",
+    "quantity": 402,
+    "address": "Collection Center, Coimbatore",
+    "lat": 10.987788,
+    "lng": 76.979561,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Soap bars #257",
+    "quantity": 89,
+    "address": "Shelter Point, Hyderabad",
+    "lat": 17.413485,
+    "lng": 78.518053,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Biscuit packets #258",
+    "quantity": 310,
+    "address": "Shelter Point, Hyderabad",
+    "lat": 17.367365,
+    "lng": 78.507105,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Blankets #259",
+    "quantity": 74,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.614477,
+    "lng": 88.413149,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Power banks #260",
+    "quantity": 132,
+    "address": "Shelter Point, Delhi",
+    "lat": 28.635039,
+    "lng": 77.241848,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Soap bars #261",
+    "quantity": 77,
+    "address": "Flood Zone A, Pune",
+    "lat": 18.533181,
+    "lng": 73.844217,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Milk powder #262",
+    "quantity": 268,
+    "address": "Flood Zone A, Mumbai",
+    "lat": 19.09547,
+    "lng": 72.915432,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Sleeping mats #263",
+    "quantity": 302,
+    "address": "Relief Camp, Coimbatore",
+    "lat": 11.053691,
+    "lng": 76.990517,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Biscuit packets #264",
+    "quantity": 440,
+    "address": "Distribution Hub, Coimbatore",
+    "lat": 11.046368,
+    "lng": 76.945572,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Mosquito nets #265",
+    "quantity": 142,
+    "address": "Flood Zone B, Bengaluru",
+    "lat": 13.004434,
+    "lng": 77.578376,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water purifier tablets #266",
+    "quantity": 441,
+    "address": "Bus Stand, Delhi",
+    "lat": 28.64273,
+    "lng": 77.248415,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Rice bags #267",
+    "quantity": 325,
+    "address": "Bus Stand, Chennai",
+    "lat": 13.034328,
+    "lng": 80.313643,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "ORS packets #268",
+    "quantity": 5,
+    "address": "Community Hall, Coimbatore",
+    "lat": 10.987032,
+    "lng": 76.974659,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Paracetamol strips #269",
+    "quantity": 452,
+    "address": "Flood Zone A, Kolkata",
+    "lat": 22.531934,
+    "lng": 88.349944,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Cooked meals #270",
+    "quantity": 31,
+    "address": "Community Hall, Hyderabad",
+    "lat": 17.39756,
+    "lng": 78.509299,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "First-aid kits #271",
+    "quantity": 365,
+    "address": "Distribution Hub, Pune",
+    "lat": 18.470509,
+    "lng": 73.854381,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "ORS packets #272",
+    "quantity": 9,
+    "address": "Relief Camp, Bengaluru",
+    "lat": 12.99116,
+    "lng": 77.626311,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Mosquito nets #273",
+    "quantity": 41,
+    "address": "Collection Center, Delhi",
+    "lat": 28.602207,
+    "lng": 77.232076,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Biscuit packets #274",
+    "quantity": 193,
+    "address": "Flood Zone A, Mumbai",
+    "lat": 19.039713,
+    "lng": 72.905046,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "First-aid kits #275",
+    "quantity": 276,
+    "address": "Relief Camp, Delhi",
+    "lat": 28.624932,
+    "lng": 77.175412,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "T-shirts #276",
+    "quantity": 475,
+    "address": "Community Hall, Bengaluru",
+    "lat": 12.983208,
+    "lng": 77.588838,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "First-aid kits #277",
+    "quantity": 76,
+    "address": "Distribution Hub, Mumbai",
+    "lat": 19.084957,
+    "lng": 72.866103,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Tarpaulin sheets #278",
+    "quantity": 131,
+    "address": "Flood Zone A, Hyderabad",
+    "lat": 17.399462,
+    "lng": 78.461517,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water purifier tablets #279",
+    "quantity": 18,
+    "address": "Flood Zone A, Kolkata",
+    "lat": 22.543145,
+    "lng": 88.374593,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Bandages #280",
+    "quantity": 335,
+    "address": "Relief Camp, Pune",
+    "lat": 18.54878,
+    "lng": 73.886078,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "ORS packets #281",
+    "quantity": 62,
+    "address": "Collection Center, Coimbatore",
+    "lat": 11.016758,
+    "lng": 76.965193,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Water bottles (1L) #282",
+    "quantity": 483,
+    "address": "Flood Zone B, Chennai",
+    "lat": 13.045898,
+    "lng": 80.306781,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Water bottles (1L) #283",
+    "quantity": 284,
+    "address": "Shelter Point, Pune",
+    "lat": 18.546673,
+    "lng": 73.902145,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "Rice bags #284",
+    "quantity": 12,
+    "address": "Flood Zone A, Chennai",
+    "lat": 13.054274,
+    "lng": 80.312958,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Mosquito nets #285",
+    "quantity": 221,
+    "address": "Community Hall, Kolkata",
+    "lat": 22.530843,
+    "lng": 88.367556,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Water bottles (1L) #286",
+    "quantity": 47,
+    "address": "Flood Zone A, Delhi",
+    "lat": 28.571802,
+    "lng": 77.251092,
+    "resourceType": "WATER"
+  },
+  {
+    "resource": "ORS packets #287",
+    "quantity": 305,
+    "address": "Distribution Hub, Hyderabad",
+    "lat": 17.366017,
+    "lng": 78.480449,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Paracetamol strips #288",
+    "quantity": 49,
+    "address": "Community Hall, Chennai",
+    "lat": 13.044299,
+    "lng": 80.28193,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Cooked meals #289",
+    "quantity": 66,
+    "address": "Relief Camp, Kolkata",
+    "lat": 22.59339,
+    "lng": 88.38405,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Bandages #290",
+    "quantity": 272,
+    "address": "Flood Zone A, Coimbatore",
+    "lat": 10.983496,
+    "lng": 76.918493,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Blankets #291",
+    "quantity": 176,
+    "address": "Community Hall, Mumbai",
+    "lat": 19.053198,
+    "lng": 72.834087,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Soap bars #292",
+    "quantity": 238,
+    "address": "Flood Zone B, Mumbai",
+    "lat": 19.031544,
+    "lng": 72.913636,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Paracetamol strips #293",
+    "quantity": 135,
+    "address": "Distribution Hub, Hyderabad",
+    "lat": 17.424427,
+    "lng": 78.504112,
+    "resourceType": "MEDICAL"
+  },
+  {
+    "resource": "Rice bags #294",
+    "quantity": 27,
+    "address": "Relief Camp, Bengaluru",
+    "lat": 12.946055,
+    "lng": 77.591776,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Tarpaulin sheets #295",
+    "quantity": 481,
+    "address": "Relief Camp, Delhi",
+    "lat": 28.619186,
+    "lng": 77.250395,
+    "resourceType": "SHELTER"
+  },
+  {
+    "resource": "Power banks #296",
+    "quantity": 169,
+    "address": "Collection Center, Pune",
+    "lat": 18.512026,
+    "lng": 73.878729,
+    "resourceType": "OTHER"
+  },
+  {
+    "resource": "Sarees #297",
+    "quantity": 66,
+    "address": "Relief Camp, Mumbai",
+    "lat": 19.043934,
+    "lng": 72.908134,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Rice bags #298",
+    "quantity": 454,
+    "address": "Bus Stand, Pune",
+    "lat": 18.557003,
+    "lng": 73.884053,
+    "resourceType": "FOOD"
+  },
+  {
+    "resource": "Blankets #299",
+    "quantity": 288,
+    "address": "Bus Stand, Hyderabad",
+    "lat": 17.335797,
+    "lng": 78.456767,
+    "resourceType": "CLOTHING"
+  },
+  {
+    "resource": "Water purifier tablets #300",
+    "quantity": 323,
+    "address": "Collection Center, Kolkata",
+    "lat": 22.568993,
+    "lng": 88.373069,
+    "resourceType": "WATER"
+  }
+]
