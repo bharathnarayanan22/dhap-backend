@@ -1,0 +1,10 @@
+build/
+.gradle/
+.git/
+.idea/
+uploads/
+.env
+*.iml
+HELP.md
+postman/
+docs/

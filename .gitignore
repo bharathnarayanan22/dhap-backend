@@ -39,3 +39,7 @@ out/
 ### Runtime ###
 uploads/
 .DS_Store
+
+### Secrets ###
+.env
+!.env.example
