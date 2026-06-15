@@ -33,6 +33,9 @@ public class User {
 
     private Boolean isSubmitted;
 
+    /** True once a coordinator application has been accepted (set in ApplicationService.accept). */
+    private boolean isCoordinator = false;
+
     /** True while the user has at least one accepted, uncompleted task. */
     private boolean inTask = false;
 
@@ -141,6 +144,14 @@ public class User {
 
     public void setIsSubmitted(Boolean isSubmitted) {
         this.isSubmitted = isSubmitted;
+    }
+
+    public boolean isCoordinator() {
+        return isCoordinator;
+    }
+
+    public void setCoordinator(boolean isCoordinator) {
+        this.isCoordinator = isCoordinator;
     }
 
     public boolean isInTask() {

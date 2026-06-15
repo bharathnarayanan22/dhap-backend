@@ -13,5 +13,7 @@ public class MeResponse {
 
     public String role;
 
+    public boolean isCoordinator;
+
     public Boolean isSubmitted;
 }

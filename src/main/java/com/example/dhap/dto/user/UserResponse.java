@@ -32,7 +32,7 @@ public class UserResponse {
         r.pincode       = user.getPincode();
         r.role          = user.getRole();
         r.inTask        = user.isInTask();
-        r.isCoordinator = "COORDINATOR".equals(user.getRole()); // derived — no backing field
+        r.isCoordinator = user.isCoordinator() || "COORDINATOR".equals(user.getRole());
         r.isSubmitted   = Boolean.TRUE.equals(user.getIsSubmitted());
         return r;
     }
