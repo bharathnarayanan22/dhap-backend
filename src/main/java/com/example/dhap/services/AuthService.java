@@ -85,6 +85,7 @@ public class AuthService {
         res.country = user.getCountry();
         res.pincode = user.getPincode();
         res.role = user.getRole();
+        res.isCoordinator = user.isCoordinator() || "COORDINATOR".equals(user.getRole());
         res.isSubmitted = user.getIsSubmitted();
 
         return res;

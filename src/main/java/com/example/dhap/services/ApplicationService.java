@@ -91,8 +91,7 @@ public class ApplicationService {
      *
      * One @Transactional block:
      *   1. Set application.status = ACCEPTED
-     *   2. Set user.role = "COORDINATOR"
-     *      (UserResponse.isCoordinator is derived from role — no separate field needed)
+     *   2. Set user.role = "COORDINATOR" and user.isCoordinator = true
      */
     @Transactional
     public ApplicationResponse accept(String id) {
@@ -104,6 +103,7 @@ public class ApplicationService {
                 .orElseThrow(() -> new ResponseStatusException(
                         HttpStatus.NOT_FOUND, "Applicant user not found"));
         user.setRole("COORDINATOR");
+        user.setCoordinator(true);
         userRepository.save(user);
 
         return ApplicationResponse.from(app);
